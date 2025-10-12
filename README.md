@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -24,10 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
