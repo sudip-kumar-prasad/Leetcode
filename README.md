@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
+| [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
