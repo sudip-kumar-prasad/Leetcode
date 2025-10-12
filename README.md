@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
+| [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Tree
 |  |
 | ------- |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
