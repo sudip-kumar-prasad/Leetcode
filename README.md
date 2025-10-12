@@ -46,14 +46,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
