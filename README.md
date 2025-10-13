@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0213-house-robber-ii) |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
