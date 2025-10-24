@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0577-employee-bonus) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1390-average-selling-price](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1390-average-selling-price) |
 ## Bit Manipulation
 |  |
