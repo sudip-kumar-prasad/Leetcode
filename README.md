@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 ## Stack
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0577-employee-bonus) |
 | [1390-average-selling-price](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1390-average-selling-price) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
