@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0577-employee-bonus) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1153-product-sales-analysis-i](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1390-average-selling-price](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1390-average-selling-price) |
 | [1541-top-travellers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1541-top-travellers) |
 ## Bit Manipulation
