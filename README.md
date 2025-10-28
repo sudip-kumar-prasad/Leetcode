@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 ## Stack
@@ -127,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
