@@ -12,5 +12,3 @@ where
         FROM Employee
         WHERE departmentId = e.departmentId
     );;
-
-
