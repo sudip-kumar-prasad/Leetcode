@@ -1,0 +1,21 @@
+class Solution(object):
+    def maxProfit(self, prices, fee):
+        n = len(prices)
+        memo = {}
+        def helper(idx, buy):
+            if idx >= n:  
+                return 0
+            if (idx, buy) in memo:
+                return memo[(idx, buy)]
+            if buy:
+                take = -prices[idx] + helper(idx + 1, not buy)
+                not_take = helper(idx + 1, buy)
+                ans = max(take, not_take)
+            else:
+                take = prices[idx] - fee + helper(idx + 1, not buy)
+                not_take = helper(idx + 1, buy)
+                ans = max(take, not_take)
+            memo[(idx, buy)] = ans
+            return ans
+        return helper(0, True)
+            
