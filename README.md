@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
