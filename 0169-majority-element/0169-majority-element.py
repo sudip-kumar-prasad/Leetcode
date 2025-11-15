@@ -7,8 +7,8 @@ class Solution(object):
             else:
                 d[i] = 1
         
-        for key in d:
-            if d[key] > len(nums) // 2:
-                return key
+        for j in d:
+            if d[j] > len(nums) // 2:
+                return j
 
         
