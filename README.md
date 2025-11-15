@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
