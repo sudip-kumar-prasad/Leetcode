@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
+| [1250-longest-common-subsequence](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
