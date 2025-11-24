@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Math
@@ -207,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
