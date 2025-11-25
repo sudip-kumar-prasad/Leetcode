@@ -15,7 +15,7 @@ class Solution(object):
             inorder(root.right)
         inorder(root)
         c = 0
-        for val in l:
-            if low <= val <= high:
-                c += val
+        for i in l:
+            if low <= i <= high:
+                c += i
         return c
