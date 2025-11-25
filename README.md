@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -211,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
