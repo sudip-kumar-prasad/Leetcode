@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1462-course-schedule-iv](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1462-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Topological Sort
+|  |
+| ------- |
+| [1462-course-schedule-iv](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->
