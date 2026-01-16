@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1013-fibonacci-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Divide and Conquer
 |  |
