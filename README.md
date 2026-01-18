@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
