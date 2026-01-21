@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
