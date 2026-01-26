@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Greedy
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0575-distribute-candies) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
