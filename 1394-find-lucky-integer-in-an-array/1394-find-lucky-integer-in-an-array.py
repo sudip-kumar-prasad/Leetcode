@@ -7,8 +7,8 @@ class Solution(object):
             else:
                 x[i] = 1
         ans = -1
-        for num in x:
-            if num == x[num]:
-                ans = max(ans, num)
+        for i in x:
+            if i == x[i]:
+                ans = max(ans, i)
 
         return ans
