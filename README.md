@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3701-compute-alternating-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
