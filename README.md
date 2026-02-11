@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3467-transform-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search Tree
 |  |
 | ------- |
