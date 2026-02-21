@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2574-left-and-right-sum-differences](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3467-transform-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
