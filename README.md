@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
