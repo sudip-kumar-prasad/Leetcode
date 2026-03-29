@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
