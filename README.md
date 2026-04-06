@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1448-maximum-69-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
