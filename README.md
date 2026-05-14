@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2974-minimum-number-game](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2974-minimum-number-game](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Divide and Conquer
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
