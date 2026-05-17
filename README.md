@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
