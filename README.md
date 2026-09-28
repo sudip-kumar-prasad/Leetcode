@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sudip-kumar-prasad/Leetcode/tree/master/0455-assign-cookies) |
