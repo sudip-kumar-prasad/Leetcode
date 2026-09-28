@@ -1,7 +1,7 @@
 class Solution(object):
     def isPalindrome(self,s):
-        if s == " ":
-            return True
+        # if s == " ":
+        #     return True
         t1 = ''
         a = s[::-1]
         b = a.split()
